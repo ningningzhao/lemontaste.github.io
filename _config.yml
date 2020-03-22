@@ -28,6 +28,7 @@ github_username:  ningningzhao
 
 # Build settings
 theme: jekyll-theme-cayman
+encoding: UTF-8
 plugins:
   - jekyll-feed
 
