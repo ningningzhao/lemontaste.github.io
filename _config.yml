@@ -27,7 +27,7 @@ twitter_username: lemontaste
 github_username:  ningningzhao
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
