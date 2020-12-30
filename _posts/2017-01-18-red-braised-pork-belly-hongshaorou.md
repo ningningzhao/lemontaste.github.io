@@ -3,7 +3,6 @@ id: 268
 title: Red Braised Pork Belly (红烧肉)
 date: 2017-01-18T23:36:49+11:00
 author: lemontaste
-layout: post
 guid: http://www.lemontaste.com.au/?p=268
 permalink: /red-braised-pork-belly-hongshaorou/
 image: /wp-content/uploads/2017/01/DSC_1829.jpg

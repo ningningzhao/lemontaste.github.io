@@ -3,7 +3,6 @@ id: 46
 title: 'Mango Mousse Cheese Cake - Soft Hearted'
 date: 2017-01-04T15:56:09+11:00
 author: lemontaste
-layout: post
 guid: http://www.lemontaste.com.au/?p=46
 permalink: /mango-mousse-cheese-cake-soft-hearted/
 image: /wp-content/uploads/2017/01/DSC_1641-1.jpg

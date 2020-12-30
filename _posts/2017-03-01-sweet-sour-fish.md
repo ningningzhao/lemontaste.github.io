@@ -3,7 +3,6 @@ id: 369
 title: Sweet Sour Fish (糖醋鱼)
 date: 2017-03-01T22:39:28+11:00
 author: lemontaste
-layout: post
 guid: http://www.lemontaste.com.au/?p=369
 permalink: /sweet-sour-fish/
 image: /wp-content/uploads/2017/02/DSC_1968.jpg

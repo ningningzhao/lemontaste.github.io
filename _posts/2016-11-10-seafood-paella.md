@@ -3,7 +3,6 @@ id: 29
 title: Seafood Paella
 date: 2016-11-10T23:22:23+11:00
 author: lemontaste
-layout: post
 guid: http://www.lemontaste.com.au/?p=29
 permalink: /seafood-paella/
 image: /wp-content/uploads/2016/11/DSC_1600.jpg
