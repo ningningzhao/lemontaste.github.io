@@ -5,7 +5,7 @@ date: 2016-11-10T23:22:23+11:00
 author: lemontaste
 guid: http://www.lemontaste.com.au/?p=29
 permalink: /seafood-paella/
-image: /wp-content/uploads/2016/11/DSC_1600.jpg
+image: /assets/2016/11/DSC_1600.jpg
 categories:
   - Cooking
   - Paella
@@ -19,7 +19,7 @@ format: image
 ---
 This dish combined all my favorite food: seafood, tomato, chorizo and rice….The preparation process is a bit complicated, but definitely worth the effort!
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="Seafood Paella" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/DSC_1607_thumb.jpg" alt="Seafood Paella" width="695" height="465" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/DSC_1607.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="Seafood Paella" src="http://www.lemontaste.com.au/assets/2017/01/DSC_1607_thumb.jpg" alt="Seafood Paella" width="695" height="465" border="0" />](http://www.lemontaste.com.au/assets/2017/01/DSC_1607.jpg)
 
 * Prep time: 15 mins
 
@@ -33,7 +33,7 @@ Serves: 4
 
 * Prawn shell and head (Peeled from the prawn prepared for the Paella)
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_175523" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_175523_thumb.jpg" alt="20170104_175523" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_175523.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_175523" src="http://www.lemontaste.com.au/assets/2017/01/20170104_175523_thumb.jpg" alt="20170104_175523" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_175523.jpg)
 
 * 1 Chicken frame
 * 1 tablespoon olive oil
@@ -45,7 +45,7 @@ Serves: 4
 * 1/2 tablespoon olive oil
 * 1/2 garlic cloves, minced
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_180152" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_180152_thumb.jpg" alt="20170104_180152" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_180152.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_180152" src="http://www.lemontaste.com.au/assets/2017/01/20170104_180152_thumb.jpg" alt="20170104_180152" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_180152.jpg)
 
 ### C - Paella
 
@@ -66,14 +66,14 @@ Serves: 4
 * 4 chicken thighs cut into small cubes
 * 1 link Spanish chorizo sausage, cut into thick slices
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_183143" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_183143_thumb.jpg" alt="20170104_183143" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_183143.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_183143" src="http://www.lemontaste.com.au/assets/2017/01/20170104_183143_thumb.jpg" alt="20170104_183143" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_183143.jpg)
 
 ### Decoration
 
 * Lemon wedges (optional)
 * 1 tablespoon Parsley finely chopped (optional)
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_191858" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_191858_thumb.jpg" alt="20170104_191858" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_191858.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_191858" src="http://www.lemontaste.com.au/assets/2017/01/20170104_191858_thumb.jpg" alt="20170104_191858" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_191858.jpg)
 
 <!--more-->
 
@@ -85,45 +85,45 @@ Prepare the stock, it is important to have rich stock that&#8217;s where the mos
 
 Heat up 1 tablespoon olive oil in a pot, add in prawn shell tossed it often until the oil turns into yellow/orange colour with nice seafood smell. Add into chicken bones and pour into boiled water, make sure water covers all ingredients. Bring to boil for 10 mins, then turn into medium heat continue to simmer for another 30 mins or until the soup reduced to the half of the volume. Drain the stock into a bowel set aside.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_183731" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_183731_thumb.jpg" alt="20170104_183731" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_183731.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_183824" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_183824_thumb.jpg" alt="20170104_183824" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_183824.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_183731" src="http://www.lemontaste.com.au/assets/2017/01/20170104_183731_thumb.jpg" alt="20170104_183731" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_183731.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_183824" src="http://www.lemontaste.com.au/assets/2017/01/20170104_183824_thumb.jpg" alt="20170104_183824" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_183824.jpg)
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_184157" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_184157_thumb.jpg" alt="20170104_184157" width="273" height="156" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_184157.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_184157" src="http://www.lemontaste.com.au/assets/2017/01/20170104_184157_thumb.jpg" alt="20170104_184157" width="273" height="156" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_184157.jpg)
 
 ### Step 2
 
 Blend all ingredients in B &#8211; Sauce section into green runny sauce set aside.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_181200" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_181200_thumb.jpg" alt="20170104_181200" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_181200.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_181200" src="http://www.lemontaste.com.au/assets/2017/01/20170104_181200_thumb.jpg" alt="20170104_181200" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_181200.jpg)
 
 ### Step 3
 
 Heat 1 teaspoon olive oil in a small fry pan, add chicken cubes cook and stir until start showing brown colour. Add chorizo and cook for another 2 minutes. Remove from the heat and set aside.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_184549" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_184549_thumb.jpg" alt="20170104_184549" width="385" height="218" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_184549.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_184659" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_184659_thumb.jpg" alt="20170104_184659" width="331" height="219" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_184659.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_184549" src="http://www.lemontaste.com.au/assets/2017/01/20170104_184549_thumb.jpg" alt="20170104_184549" width="385" height="218" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_184549.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_184659" src="http://www.lemontaste.com.au/assets/2017/01/20170104_184659_thumb.jpg" alt="20170104_184659" width="331" height="219" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_184659.jpg)
 
 ### Step 4
 
 Heat olive oil in a 30cm Paella pan or large flat pan over medium high heat. Add chopped shallot and garlic, stir often until onion has soften and smell nice. Add tomato, red capsicum and parsley, cook and stir until the tomato becomes soft and juicy. Add paprika, saffron and rice, stir to coat. Add white wine cook until the alcohol completely evaporated.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_185355" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_185355_thumb.jpg" alt="20170104_185355" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_185355.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_185355" src="http://www.lemontaste.com.au/assets/2017/01/20170104_185355_thumb.jpg" alt="20170104_185355" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_185355.jpg)
 
 ### Step 5
 
 Add stock into Paella pan and make sure all rice are leveled and covered in stock. Add in salt and pepper. Press chicken and chorizo on top of the rice. Turn to medium heat and simmer, uncovered, for 20 minutes or until stock has absorbed.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_185516" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_185516_thumb.jpg" alt="20170104_185516" width="287" height="163" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_185516.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_185658" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_185658_thumb.jpg" alt="20170104_185658" width="283" height="161" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_185658.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20161110_173017" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20161110_173017_thumb.jpg" alt="20161110_173017" width="249" height="159" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20161110_173017.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_185516" src="http://www.lemontaste.com.au/assets/2017/01/20170104_185516_thumb.jpg" alt="20170104_185516" width="287" height="163" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_185516.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_185658" src="http://www.lemontaste.com.au/assets/2017/01/20170104_185658_thumb.jpg" alt="20170104_185658" width="283" height="161" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_185658.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20161110_173017" src="http://www.lemontaste.com.au/assets/2017/01/20161110_173017_thumb.jpg" alt="20161110_173017" width="249" height="159" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20161110_173017.jpg)
 
 ### Step 6
 
 Top rice with peas, prawns, octopus and mussels. Cook, covered, for 10 minutes or until rice is tender and mussels are open.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_191614" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_191614_thumb.jpg" alt="20170104_191614" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_191614.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_191953" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_191953_thumb.jpg" alt="20170104_191953" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/20170104_191953.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_191614" src="http://www.lemontaste.com.au/assets/2017/01/20170104_191614_thumb.jpg" alt="20170104_191614" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_191614.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170104_191953" src="http://www.lemontaste.com.au/assets/2017/01/20170104_191953_thumb.jpg" alt="20170104_191953" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/01/20170104_191953.jpg)
 
 ### Step 7
 
 Serve with lemon wedges and parsley.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="DSC_1603" src="http://www.lemontaste.com.au/wp-content/uploads/2017/01/DSC_1603_thumb.jpg" alt="DSC_1603" width="331" height="222" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/01/DSC_1603.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="DSC_1603" src="http://www.lemontaste.com.au/assets/2017/01/DSC_1603_thumb.jpg" alt="DSC_1603" width="331" height="222" border="0" />](http://www.lemontaste.com.au/assets/2017/01/DSC_1603.jpg)
 
 <span style="text-decoration: underline;"><em><strong>Tips:</strong></em></span>
 

@@ -5,7 +5,7 @@ date: 2017-03-01T22:39:28+11:00
 author: lemontaste
 guid: http://www.lemontaste.com.au/?p=369
 permalink: /sweet-sour-fish/
-image: /wp-content/uploads/2017/02/DSC_1968.jpg
+image: /assets/2017/02/DSC_1968.jpg
 categories:
   - Chinese Dish
   - ChineseNewYear Series
@@ -70,7 +70,7 @@ I’ll go through detailed steps and and provide photos below to guide you throu
 * 1 spring onion (finely chopped)
 * Several coriander leaves
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_164152(0)" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_1641520_thumb.jpg" alt="20170226_164152(0)" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_1641520.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_164152(0)" src="http://www.lemontaste.com.au/assets/2017/02/20170226_1641520_thumb.jpg" alt="20170226_164152(0)" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_1641520.jpg)
 
 ## INSTRUCTIONS
 
@@ -78,25 +78,25 @@ I’ll go through detailed steps and and provide photos below to guide you throu
 
 Add Sichuan pepper and ginger slices into cooking wine, mix and soak for 15 minutes so the flavour is absorbed in the cooking wine.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_152423" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_152423_thumb.jpg" alt="20170226_152423" width="331" height="301" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_152423.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_152423" src="http://www.lemontaste.com.au/assets/2017/02/20170226_152423_thumb.jpg" alt="20170226_152423" width="331" height="301" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_152423.jpg)
 
 ### Step 2
 
 Rinse the fish using cold water and then dry it with kitchen paper towel. Slice both sides of the fish as shown in the photos below. Use a sharp knife to cut vertically into the fish until you reach the bone first, then slightly rotate the knife to approx. 45 degrees angel to slice into the meat for about 2cm. The shape and depth of the cut dictates the presentation after the fish has been deep fried, as they’ll open nicely on both side to help the fish to sit up on the plate.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_152916" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_152916_thumb.jpg" alt="20170226_152916" width="331" height="191" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_152916.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_152835" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_152835_thumb.jpg" alt="20170226_152835" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_152835.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_152916" src="http://www.lemontaste.com.au/assets/2017/02/20170226_152916_thumb.jpg" alt="20170226_152916" width="331" height="191" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_152916.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_152835" src="http://www.lemontaste.com.au/assets/2017/02/20170226_152835_thumb.jpg" alt="20170226_152835" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_152835.jpg)
 
 ### Step 3
 
 Gently rub salt into both sides of the fish including the cut and inside. Then pour the flavoured cooking wine from step 1 onto the fish, using your fingers to rub the wine into the cut and inside of the fish as well. Then cover the fish with glad wrap and keep in the fridge to marinade for 15 minutes.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_153133" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_153133_thumb.jpg" alt="20170226_153133" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_153133.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_153613" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_153613_thumb.jpg" alt="20170226_153613" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_153613.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_153711" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_153711_thumb.jpg" alt="20170226_153711" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_153711.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_153133" src="http://www.lemontaste.com.au/assets/2017/02/20170226_153133_thumb.jpg" alt="20170226_153133" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_153133.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_153613" src="http://www.lemontaste.com.au/assets/2017/02/20170226_153613_thumb.jpg" alt="20170226_153613" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_153613.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_153711" src="http://www.lemontaste.com.au/assets/2017/02/20170226_153711_thumb.jpg" alt="20170226_153711" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_153711.jpg)
 
 ### Step 4
 
 After 15 minutes, take the fish out and wipe out any exceed liquid on the fish, then coat it nicely with corn flour including all the cuts, head and inside of the fish. Shake out exceeded flour.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_154318" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_154318_thumb.jpg" alt="20170226_154318" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_154318.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_154335" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_154335_thumb.jpg" alt="20170226_154335" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_154335.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_154318" src="http://www.lemontaste.com.au/assets/2017/02/20170226_154318_thumb.jpg" alt="20170226_154318" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_154318.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_154335" src="http://www.lemontaste.com.au/assets/2017/02/20170226_154335_thumb.jpg" alt="20170226_154335" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_154335.jpg)
 
 ### Step 5
 
@@ -106,31 +106,31 @@ Prepare a big wok and add half wok full of cooking oil. Depends on the size of y
 
 Heat up the oil to medium heat (160-170 °C). You can test the oil temperature by sticking a wooden chopstick into the oil, if it shows lots of small bubbles around the chopstick, then the oil is ready.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_155505a" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_155505a_thumb.jpg" alt="20170226_155505a" width="299" height="344" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_155505a.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_155505a" src="http://www.lemontaste.com.au/assets/2017/02/20170226_155505a_thumb.jpg" alt="20170226_155505a" width="299" height="344" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_155505a.jpg)
 
 ### Step 7
 
 Hold the fish tail (wrap with paper towel if it’s too slippery) on top of the wok, use a big metal spoon to pour the hot oil onto the fish body slowly until all the cuts opened nicely and firm. Change to the other side and repeat the process. This step is to cook the the fish cuts first to help set the fish shape, so when you put the whole fish into the oil later, it will remain in the nice shape on both sides.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_155556" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_155556_thumb.jpg" alt="20170226_155556" width="191" height="344" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_155556.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_160030" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_160030_thumb.jpg" alt="20170226_160030" width="172" height="344" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_160030.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_155556" src="http://www.lemontaste.com.au/assets/2017/02/20170226_155556_thumb.jpg" alt="20170226_155556" width="191" height="344" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_155556.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_160030" src="http://www.lemontaste.com.au/assets/2017/02/20170226_160030_thumb.jpg" alt="20170226_160030" width="172" height="344" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_160030.jpg)
 
 ### Step 8
 
 Once you are happy with both sides, slowly push the fish head and body into the oil vertically. If your wok is not big enough for the whole fish, make sure you can fit in at least half of the fish body nicely in the oil, fry for a few minutes until the colour of the fish turns gold. Then slowly turn the other half into the oil until it turns gold as well.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_160400" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_160400_thumb.jpg" alt="20170226_160400" width="331" height="303" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_160400.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_160400" src="http://www.lemontaste.com.au/assets/2017/02/20170226_160400_thumb.jpg" alt="20170226_160400" width="331" height="303" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_160400.jpg)
 
 ### Step 9
 
 Placing the fish gently onto a big serving plate. Then prepare the sauce.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_161929" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_161929_thumb.jpg" alt="20170226_161929" width="331" height="205" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_161929.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_161929" src="http://www.lemontaste.com.au/assets/2017/02/20170226_161929_thumb.jpg" alt="20170226_161929" width="331" height="205" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_161929.jpg)
 
 ### Step 10
 
 Take 3 tablespoons of oil used for frying the fish into a sauce pan. Heat up (be careful as the oil may still very hot) and add in finely chopped ginger, garlic and red capsicum (aka pepper), keep stirring until you can smell the nice flavour.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_164438" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_164438_thumb.jpg" alt="20170226_164438" width="331" height="215" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_164438.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_164438" src="http://www.lemontaste.com.au/assets/2017/02/20170226_164438_thumb.jpg" alt="20170226_164438" width="331" height="215" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_164438.jpg)
 
 ### Step 11
 
@@ -140,7 +140,7 @@ Pour in all ingredients from Part C and keep stirring until mixed well and showi
 
 Mix corn flour with cold water, briefly stir it to ensure it is mixed well, then pour the mix into the cooking sauce in the sauce pan and quickly stir for a few seconds. You will see the sauce becomes thick and sticky.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_164902" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_164902_thumb.jpg" alt="20170226_164902" width="331" height="206" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170226_164902.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170226_164902" src="http://www.lemontaste.com.au/assets/2017/02/20170226_164902_thumb.jpg" alt="20170226_164902" width="331" height="206" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170226_164902.jpg)
 
 ### Step 13
 
@@ -150,7 +150,7 @@ Remove sauce from the heat then pour slowly onto the fish and make sure the enti
 
 Sprinkle finely chopped spring onion and few coriander leaves on top to decorate. Serve immediately with steam rice.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="DSC_1972" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/DSC_1972_thumb.jpg" alt="DSC_1972" width="331" height="222" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/DSC_1972.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="DSC_1972" src="http://www.lemontaste.com.au/assets/2017/02/DSC_1972_thumb.jpg" alt="DSC_1972" width="331" height="222" border="0" />](http://www.lemontaste.com.au/assets/2017/02/DSC_1972.jpg)
 
 ***Tips:***
 

@@ -5,7 +5,7 @@ date: 2017-02-04T23:58:30+11:00
 author: lemontaste
 guid: http://www.lemontaste.com.au/?p=273
 permalink: /pearl-meatball/
-image: /wp-content/uploads/2017/02/DSC_1960.jpg
+image: /assets/2017/02/DSC_1960.jpg
 categories:
   - Chinese Dish
   - ChineseNewYear Series
@@ -55,7 +55,7 @@ Other than a bit of chopping, the rest of the cooking process for this dish is p
 * 1 teaspoon 5 spices powder
 * 1 egg
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_132546" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_132546_thumb-1.jpg" alt="20170129_132546" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_132546-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_135935" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_135935_thumb-1.jpg" alt="20170129_135935" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_135935-1.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_132546" src="http://www.lemontaste.com.au/assets/2017/02/20170129_132546_thumb-1.jpg" alt="20170129_132546" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_132546-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_135935" src="http://www.lemontaste.com.au/assets/2017/02/20170129_135935_thumb-1.jpg" alt="20170129_135935" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_135935-1.jpg)
 
 ### Part D
 
@@ -71,7 +71,7 @@ Other than a bit of chopping, the rest of the cooking process for this dish is p
 
 * 1 tablespoon dry goji fruit soak in warm water
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_144013" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_144013_thumb.jpg" alt="20170129_144013" width="290" height="283" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_144013.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_144013" src="http://www.lemontaste.com.au/assets/2017/02/20170129_144013_thumb.jpg" alt="20170129_144013" width="290" height="283" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_144013.jpg)
 
 ## Instructions
 
@@ -79,7 +79,7 @@ Other than a bit of chopping, the rest of the cooking process for this dish is p
 
 Prepare the glutinous rice (Part A) ahead of time, it needs to be soaked in cold water for minimum 8 hours or up to 1 day. This is to make sure the rice can be easily cooked at the same time as the meatball.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170128_085738" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170128_085738_thumb-1.jpg" alt="20170128_085738" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170128_085738-1.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170128_085738" src="http://www.lemontaste.com.au/assets/2017/02/20170128_085738_thumb-1.jpg" alt="20170128_085738" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170128_085738-1.jpg)
 
 ### Step 2
 
@@ -87,19 +87,19 @@ Drain the soaked rice and set aside.
 
 Pour all ingredients from part C into the pork mince (Part B) in a large bowl. Then start mix it, make sure you keep stirring in one direction until all well combined.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_140127" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_140127_thumb.jpg" alt="20170129_140127" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_140127.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_140342" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_140342_thumb.jpg" alt="20170129_140342" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_140342.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_140127" src="http://www.lemontaste.com.au/assets/2017/02/20170129_140127_thumb.jpg" alt="20170129_140127" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_140127.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_140342" src="http://www.lemontaste.com.au/assets/2017/02/20170129_140342_thumb.jpg" alt="20170129_140342" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_140342.jpg)
 
 ### Step 3
 
 Add 2 tablespoons of Sichuan pepper flavoured water at a time into the mixture and continue to stir in the same direction until all water absolved. Then add another 2 tablespoons, lotus root and corn flour continue to stir for at least another 2 minutes. The longer you mix it the more tender the meat ball will be.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_140721" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_140721_thumb-1.jpg" alt="20170129_140721" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_140721-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_140859" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_140859_thumb-1.jpg" alt="20170129_140859" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_140859-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_140956" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_140956_thumb-1.jpg" alt="20170129_140956" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_140956-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_141217" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_141217_thumb-1.jpg" alt="20170129_141217" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_141217-1.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_140721" src="http://www.lemontaste.com.au/assets/2017/02/20170129_140721_thumb-1.jpg" alt="20170129_140721" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_140721-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_140859" src="http://www.lemontaste.com.au/assets/2017/02/20170129_140859_thumb-1.jpg" alt="20170129_140859" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_140859-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_140956" src="http://www.lemontaste.com.au/assets/2017/02/20170129_140956_thumb-1.jpg" alt="20170129_140956" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_140956-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_141217" src="http://www.lemontaste.com.au/assets/2017/02/20170129_141217_thumb-1.jpg" alt="20170129_141217" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_141217-1.jpg)
 
 ### Step 4
 
 Pour a layer of well drained glutinous rice in a flat plate. Use a spoon to make a meat ball in your hand then roll it in the glutinous rice in circle to make sure it is nicely coated. Repeat the process for the remaining mixture until finish.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_141520" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_141520_thumb-1.jpg" alt="20170129_141520" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_141520-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_141621" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_141621_thumb-1.jpg" alt="20170129_141621" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_141621-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_142447" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_142447_thumb-1.jpg" alt="20170129_142447" width="331" height="188" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/20170129_142447-1.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_141520" src="http://www.lemontaste.com.au/assets/2017/02/20170129_141520_thumb-1.jpg" alt="20170129_141520" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_141520-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_141621" src="http://www.lemontaste.com.au/assets/2017/02/20170129_141621_thumb-1.jpg" alt="20170129_141621" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_141621-1.jpg)[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="20170129_142447" src="http://www.lemontaste.com.au/assets/2017/02/20170129_142447_thumb-1.jpg" alt="20170129_142447" width="331" height="188" border="0" />](http://www.lemontaste.com.au/assets/2017/02/20170129_142447-1.jpg)
 
 ### Step 5
 
@@ -109,7 +109,7 @@ Lay the meatballs carefully into the steamer 2cms apart. You can use any kind of
 
 Put a soaked goji fruit on top of each meatball and covered the steamer to rest for another 5 minutes. Then it's ready to serve.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="DSC_1896" src="http://www.lemontaste.com.au/wp-content/uploads/2017/02/DSC_1896_thumb.jpg" alt="DSC_1896" width="331" height="222" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2017/02/DSC_1896.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="DSC_1896" src="http://www.lemontaste.com.au/assets/2017/02/DSC_1896_thumb.jpg" alt="DSC_1896" width="331" height="222" border="0" />](http://www.lemontaste.com.au/assets/2017/02/DSC_1896.jpg)
 
 ##### <span style="text-decoration: underline;"><em>Tips:</em></span>
 

@@ -5,7 +5,7 @@ date: 2016-10-09T22:38:36+11:00
 author: lemontaste
 guid: http://www.lemontaste.com.au/?p=10
 permalink: /gooey-chocolate-brownie/
-image: /wp-content/uploads/2016/10/DSC_1561.jpg
+image: /assets/2016/10/DSC_1561.jpg
 categories:
   - Baking
   - Chocolate
@@ -18,7 +18,7 @@ format: image
   Every family would have a favorite chocolate cake or brownie recipe in the back pocket which can always be the hit in a short notice party, special treat on a cold winter Saturday afternoon or a place in those little lunch box all year long&#8230;Here is my version super gooey rich chocolate texture with minimum effort. A slice served in warm with a scoop of Baileys ice cream, ennn&#8230;. taste in heaven. Enjoy!
 </p>
 
-<img loading="lazy" class="aligncenter wp-image-16 size-large" src="http://www.lemontaste.com.au/wp-content/uploads/2016/10/DSC_1551-1024x683.jpg" alt="dsc_1551" width="1000" height="667" srcset="http://www.lemontaste.com.au/wp-content/uploads/2016/10/DSC_1551-1024x683.jpg 1024w, http://www.lemontaste.com.au/wp-content/uploads/2016/10/DSC_1551-300x200.jpg 300w, http://www.lemontaste.com.au/wp-content/uploads/2016/10/DSC_1551-768x512.jpg 768w, http://www.lemontaste.com.au/wp-content/uploads/2016/10/DSC_1551-960x640.jpg 960w, http://www.lemontaste.com.au/wp-content/uploads/2016/10/DSC_1551-450x300.jpg 450w" sizes="(max-width: 1000px) 100vw, 1000px" /> 
+<img loading="lazy" class="aligncenter wp-image-16 size-large" src="http://www.lemontaste.com.au/assets/2016/10/DSC_1551-1024x683.jpg" alt="dsc_1551" width="1000" height="667" srcset="http://www.lemontaste.com.au/assets/2016/10/DSC_1551-1024x683.jpg 1024w, http://www.lemontaste.com.au/assets/2016/10/DSC_1551-300x200.jpg 300w, http://www.lemontaste.com.au/assets/2016/10/DSC_1551-768x512.jpg 768w, http://www.lemontaste.com.au/assets/2016/10/DSC_1551-960x640.jpg 960w, http://www.lemontaste.com.au/assets/2016/10/DSC_1551-450x300.jpg 450w" sizes="(max-width: 1000px) 100vw, 1000px" /> 
 
 # <!--more-->
 
@@ -81,4 +81,4 @@ Service warm with some ice cream to taste the soft chocolate central, or cold wi
 * Keep the left over brownie in air tight container for up to 3 days, can heat up in microwave for few seconds if you like warm and soft texture.
 * Use milk chocolate chips instead for sweeter tastes, or add in roasted nuts for crunchiness.
 
-[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="DSC_1569" src="http://www.lemontaste.com.au/wp-content/uploads/2016/10/DSC_1569_thumb.jpg" alt="DSC_1569" width="861" height="575" border="0" />](http://www.lemontaste.com.au/wp-content/uploads/2016/10/DSC_1569.jpg)
+[<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="DSC_1569" src="http://www.lemontaste.com.au/assets/2016/10/DSC_1569_thumb.jpg" alt="DSC_1569" width="861" height="575" border="0" />](http://www.lemontaste.com.au/assets/2016/10/DSC_1569.jpg)
