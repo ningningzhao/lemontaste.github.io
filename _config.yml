@@ -22,8 +22,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lemon Taste"
 description              : "Joy of tastey home recipes and more"
-url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : #"" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "ningningzhao/lemontaste.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -33,7 +33,7 @@ words_per_minute         : 200
 comments:
   provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : #"" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -44,9 +44,9 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
-  staticman:
-    branch                 : # "master"
-    endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
+staticman:
+  branch                 : # "master"
+  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                :
   secret                 :
@@ -227,9 +227,9 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  #- jemoji
+  - jemoji
   - jekyll-include-cache
-  #- jekyll-archives
+  - jekyll-archives
 
 
 # Archives
