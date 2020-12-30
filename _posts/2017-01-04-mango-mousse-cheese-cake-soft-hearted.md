@@ -18,13 +18,13 @@ format: image
 [<img loading="lazy" style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="DSC_1641" src="http://www.lemontaste.com.au/assets/2017/01/DSC_1641_thumb-1.jpg" alt="DSC_1641" width="4071" height="2709" border="0" />](http://www.lemontaste.com.au/assets/2017/01/DSC_1641-1.jpg)
 
 What is the best thing about November? For me it’s the Mango season starts! Anything with Mango tastes good to me, mango smoothie, salads, ice cream, cakes list goes on…as one of my special and must make recipe every year, I’d like to share this one first to celebrate the arrival of Mango season and summer time! The texture of this mango cake is silky tropical with a bit cheese twist. It's not one of the firm rich cheese cake but a more refreshing summer dessert.
-# <!--more-->
 
 * Prep Time: 30mins
 * Waiting: 7 hours
 * Serve: 4~6
 * Size: 6 inches (For 8 inches simply double the ingredients)
 
+ <!--more-->
 ## Ingredients
 
 ### A - Base

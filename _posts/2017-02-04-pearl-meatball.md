@@ -24,7 +24,7 @@ In China, one of the key new year celebration is the family feast at New Year's 
 
 I have been away from China for many years. New year celebration seems become a bit like going through the motions because you are thousand miles away from home. Therefore, I always try to cook some special new year dishes that can bring back some of the memory from the good old days.
 
-So I've decided to make a Chinese New year series to introduce some special dishes. Let's start with an easy one - Pearl meatball. They’re basically steamed pork meatballs, covered in sticky rice. The hot steam cooks the glutinous rice with moist while helping the rice to absolve all the rich flavoured meat juice. You can smell the beautiful rice and spiced meat flavour coming out of the steamer while being cooked. it's just mouthwatering. Once completed, the glutinous rice is soaked with full of meat juice and translucent&#8230;rich and gooey. Those cooked meatballs looks like big shinning pearls on the new year's dinner table, it means all family members will stick together with a healthy and happy new year ahead.
+So I've decided to make a Chinese New year series to introduce some special dishes. Let's start with an easy one - Pearl meatball. They’re basically steamed pork meatballs, covered in sticky rice. The hot steam cooks the glutinous rice with moist while helping the rice to absolve all the rich flavoured meat juice. You can smell the beautiful rice and spiced meat flavour coming out of the steamer while being cooked. it's just mouthwatering. Once completed, the glutinous rice is soaked with full of meat juice and translucent... rich and gooey. Those cooked meatballs looks like big shinning pearls on the new year's dinner table, it means all family members will stick together with a healthy and happy new year ahead.
 
 Other than a bit of chopping, the rest of the cooking process for this dish is pretty simple. You can also use a food processor to simplify it. The key for this dish is mixing the pork mince. This is where all the flavour comes from. I've inherited my mum's version which contains lots of my childhood memory about mummy's cooking. There is a secret ingredient my mum loves to use to make any meat dishes. It gives the meat a very special spice flavour which you wouldn't have it in any other versions. It also helps to remove any smells from the meat so it works well with beef, lamb or fish dishes as well.
 
@@ -103,7 +103,7 @@ Pour a layer of well drained glutinous rice in a flat plate. Use a spoon to make
 
 ### Step 5
 
-Lay the meatballs carefully into the steamer 2cms apart. You can use any kind of steamers, bamboo steamer or electronic steam. Steam for 12-15mins until the rice cooked and looks clear and shinning.
+Lay the meatballs carefully into the steamer 2cm apart. You can use any kind of steamers, bamboo steamer or electronic steam. Steam for 12-15mins until the rice cooked and looks clear and shinning.
 
 ### Step 6
 

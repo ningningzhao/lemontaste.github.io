@@ -15,7 +15,7 @@ tags:
 format: image
 ---
 <p style="text-align: left;">
-  Every family would have a favorite chocolate cake or brownie recipe in the back pocket which can always be the hit in a short notice party, special treat on a cold winter Saturday afternoon or a place in those little lunch box all year long&#8230;Here is my version super gooey rich chocolate texture with minimum effort. A slice served in warm with a scoop of Baileys ice cream, ennn&#8230;. taste in heaven. Enjoy!
+  Every family would have a favorite chocolate cake or brownie recipe in the back pocket which can always be the hit in a short notice party, special treat on a cold winter Saturday afternoon or a place in those little lunch box all year long... Here is my version super gooey rich chocolate texture with minimum effort. A slice served in warm with a scoop of Baileys ice cream, ennn... taste in heaven. Enjoy!
 </p>
 
 <img loading="lazy" class="aligncenter wp-image-16 size-large" src="http://www.lemontaste.com.au/assets/2016/10/DSC_1551-1024x683.jpg" alt="dsc_1551" width="1000" height="667" srcset="http://www.lemontaste.com.au/assets/2016/10/DSC_1551-1024x683.jpg 1024w, http://www.lemontaste.com.au/assets/2016/10/DSC_1551-300x200.jpg 300w, http://www.lemontaste.com.au/assets/2016/10/DSC_1551-768x512.jpg 768w, http://www.lemontaste.com.au/assets/2016/10/DSC_1551-960x640.jpg 960w, http://www.lemontaste.com.au/assets/2016/10/DSC_1551-450x300.jpg 450w" sizes="(max-width: 1000px) 100vw, 1000px" /> 
@@ -55,7 +55,7 @@ Preheat oven to 180C/160C fan forced. Grease a 20cm (base measurement) square ca
 
 ### Step 2
 
-In a large bowl, beat melted butter until it just starts to look lighter colour and a bit fluffy. Don&#8217;t over beat it. Then add in sugar, vanilla extract continue to beat until sugar absolved completely and smooth.
+In a large bowl, beat melted butter until it just starts to look lighter colour and a bit fluffy. Don't over beat it. Then add in sugar, vanilla extract continue to beat until sugar absolved completely and smooth.
 
 Beat the eggs, one at a time into Part A mixture until thoroughly combined.
 
