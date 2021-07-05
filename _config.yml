@@ -93,9 +93,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lemon Taste"
-  avatar           : "/assets/images/avatar.jpg"
-  bio              : "This is my cooking blog."
+  name             : "Lemon Taste 檸檬味道"
+  avatar           : "/assets/images/logo.jpg"
+  bio              : "This is my cooking blog"
   location         : "Australia"
   email            :
   links:
