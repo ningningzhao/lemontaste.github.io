@@ -2,7 +2,7 @@
 id: 29
 title: Seafood Paella
 date: 2016-11-10T23:22:23+11:00
-author: NingNing Zhao
+author: Lemon Taste
 guid: http://www.lemontaste.com.au/?p=29
 permalink: /seafood-paella/
 image: /assets/2016/11/DSC_1600.jpg
