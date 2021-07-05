@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "Joy of tasty home recipes and more"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Lemon Taste 檸檬味道"
+name                     : "Lemon Taste 寧萌味道"
 description              : "Joy of tasty home recipes and more"
 url                      : "https://www.lemontaste.com.au" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : #"" # the subpath of your site, e.g. "/blog"
@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lemon Taste 檸檬味道"
+  name             : "Lemon Taste 寧萌味道"
   avatar           : "/assets/images/logo.jpg"
   bio              : "This is my cooking blog"
   location         : "Australia"
