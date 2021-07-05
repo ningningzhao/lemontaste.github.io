@@ -23,7 +23,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Lemon Taste 檸檬味道"
 description              : "Joy of tasty home recipes and more"
 url                      : "https://www.lemontaste.com.au" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : #"" # the subpath of your site, e.g. "/blog"
+#baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "ningningzhao/lemontaste.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "NingNing Zhao"
-  avatar           : "/assets/images/logo.jpg"
+  name             : "Lemon Taste"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "This is my cooking blog."
-  location         : "Melbourne Australia"
+  location         : "Australia"
   email            :
   links:
     - label: "Email"
@@ -111,9 +111,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/lemontasteblog"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCywJ1ZmkQqbYJkOSPPFZWxg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lemontaste_blog/"
@@ -127,15 +127,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/lemontasteblog"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCywJ1ZmkQqbYJkOSPPFZWxg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lemontaste_blog/"

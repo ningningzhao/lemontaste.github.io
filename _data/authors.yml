@@ -2,7 +2,7 @@ NingNing Zhao:
   name             : "Lemon Taste"
   avatar           : "/assets/images/avatar.jpg"
   bio              : "This is my cooking blog."
-  location         : "Melbourne Australia"
+  location         : "Australia"
   email            : 
   links:
     - label: "Website"
@@ -14,6 +14,9 @@ NingNing Zhao:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/lemontasteblog"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCywJ1ZmkQqbYJkOSPPFZWxg"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lemontaste_blog/"
