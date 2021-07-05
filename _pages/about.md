@@ -5,4 +5,4 @@ title: "About me"
 
 About this site
 
-![Lemon Taste]({{ site.url }}/assets/images/avatar.jpg)
+![Lemon Taste]({{ site.url }}/assets/images/logo.jpg)
