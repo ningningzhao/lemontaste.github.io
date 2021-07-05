@@ -2,7 +2,7 @@
 id: 268
 title: Red Braised Pork Belly (红烧肉)
 date: 2017-01-18T23:36:49+11:00
-author: Lemon Taste
+author: Lemon Taste 檸檬味道
 guid: http://www.lemontaste.com.au/?p=268
 permalink: /red-braised-pork-belly-hongshaorou/
 image: /assets/2017/01/DSC_1829.jpg

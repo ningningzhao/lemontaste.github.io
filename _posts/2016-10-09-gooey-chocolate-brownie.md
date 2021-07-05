@@ -2,7 +2,7 @@
 id: 10
 title: Gooey Chocolate Brownie
 date: 2016-10-09T22:38:36+11:00
-author: Lemon Taste
+author: Lemon Taste 檸檬味道
 guid: http://www.lemontaste.com.au/?p=10
 permalink: /gooey-chocolate-brownie/
 image: /assets/2016/10/DSC_1561.jpg
