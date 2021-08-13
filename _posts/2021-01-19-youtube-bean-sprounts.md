@@ -7,7 +7,7 @@ categories:
 tags:
   - YouTube
   - Video
-  - Home recipe
+  - Home Recipe
 author: Lemon Taste 寧萌味道
 summary: YouTube Video - 自己在家發綠豆芽綠色健康飲食 Growing your own Bean Sprouts at home
 ---

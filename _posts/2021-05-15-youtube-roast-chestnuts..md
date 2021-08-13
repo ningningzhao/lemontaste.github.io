@@ -6,7 +6,7 @@ categories:
 tags:
   - YouTube
   - Video
-  - Home recipe
+  - Home Recipe
 author: Lemon Taste 寧萌味道
 summary: YouTube Video - Roast Chestnut in oven in 3 steps with easy peeling tips 烤板栗三步轻松剥板栗皮
 ---

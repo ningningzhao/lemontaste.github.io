@@ -9,7 +9,7 @@ tags:
   - YouTube
   - Video
   - Keto
-  - Home recipe
+  - Home Recipe
 author: Lemon Taste 寧萌味道
 summary: YouTube Video - Keto Pizza Base (生酮披薩)
 ---
